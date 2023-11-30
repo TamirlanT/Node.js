@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "firstName": "Clark",
+    "secondName": "Kent",
+    "age": 27,
+    "city": "Preston"
+  },
+  {
+    "id": 2,
+    "firstName": "Genry",
+    "secondName": "Kavil",
+    "age": 38,
+    "city": "London"
+  },
+  {
+    "id": 3,
+    "firstName": "Greg",
+    "secondName": "House",
+    "age": 42,
+    "city": "Santa Monica"
+  }
+]
